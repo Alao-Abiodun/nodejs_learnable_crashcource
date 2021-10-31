@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_learnable_crashcource",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alao-Abiodun/nodejs_learnable_crashcource.git",
+  "author": "Alao-Abiodun <46402042+Alao-Abiodun@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "node": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
